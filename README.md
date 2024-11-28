@@ -30,5 +30,7 @@ python -V
 2. Download and unzip the "Models" folder 
 3. Open the "Models" folder. Inside, you will find another "Models" folder 
 4. Move the inner "Models" folder to the same directory as the Final Submission.ipynb file. The path to a model should then look like ./Models/{pretrained_model}
-5. Open Final Submission.ipynb in jupyter notebook
-6. Since some code blocks are interdependent, we recommend running them in order to avoid errors. Alternatively, you can select "Run All" to execute all blocks.
+5. Go the the repo directory
+6. Open Final Submission.ipynb in jupyter notebook
+7. Since some code blocks are interdependent, we recommend running them in order to avoid errors. Alternatively, you can select "Run All" to execute all blocks.
+8. Select the kernel "Python 3 (ipykernel)" as comp472 (the name of your virtual environment)
