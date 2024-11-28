@@ -1,4 +1,4 @@
-# COMP472_Project
+# COMP472_Project - Thi Mai Anh Nguyen & Yihuan Liu
 ## Prerequisites
 
 - The project is set up to run with **Python 3.12**
